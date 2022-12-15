@@ -1,0 +1,8 @@
+/* canvas {
+    background: url("fundo.png") no-repeat center center fixed;
+    background-size: cover;
+}  */
+
+canvas{
+    background-color: aqua  ;
+}
